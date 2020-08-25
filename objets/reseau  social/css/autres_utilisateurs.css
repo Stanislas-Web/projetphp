@@ -1,0 +1,26 @@
+#contenu{
+	overflow-x: hidden;
+	overflow-y: scroll;
+	height: 400px;
+}
+#ami{
+	margin-top:5px;
+	margin-left:10Px;
+	font-weight: bold;
+}
+#invitation{
+	border-radius: 5px;
+	height: 30px;
+	width: 200px;
+	border:1px  green solid;
+	background-color: green;
+	color: #fff;
+
+}
+#invitation:hover{
+	color: aqua;
+}
+#imgprofil{
+	border-radius: 5px;
+	border:1px #000 solid;
+}

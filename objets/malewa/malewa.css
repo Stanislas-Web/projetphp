@@ -1,0 +1,55 @@
+#header{
+
+	background: url('NOURITURE/19961387_1618350841537754_1377514970506877648_n.jpg') no-repeat;
+	background-size:100%;
+	height: 400px;
+	
+}
+body{
+	font-family: 'century Gothic',calibri,serif;
+}
+#contenu{
+	height: 300px;
+}
+nav{
+	margin-top: 0px;
+	padding-left: 20%;
+	height: 30px;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+}
+li a{
+	color: #fff;
+	width: 510px;
+	text-decoration: none;
+}
+#tout{
+	background-color: #123458;
+	height: 1000px;
+}
+#interieur{
+	height: 300px;
+	background-color: #fff;
+}
+#r{
+	margin-top: 2px;
+	height: 20px;
+	
+	margin-top: 2px;
+	border-radius: 5px;
+}
+#formul{
+	margin-left: 650px;
+	margin-top: 30px;
+}
+#footer{
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #c5c5c5;
+	border-top: 2px solid #aaa;
+}
+}

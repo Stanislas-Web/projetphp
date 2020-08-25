@@ -1,0 +1,31 @@
+#prenom{
+	margin-left: 510px;
+	margin-top:200px; 
+	padding: 5px;
+	text-align: left;
+	width: 357px;
+	height: 30px;
+}
+#motdepasse{
+	margin-left: 510px;
+	padding: 5px;
+	width: 357px;
+	height: 30px;
+
+}
+#btn{
+	margin-left: 10px;
+	height: 30px;
+	width: 100px;
+}
+#f{
+	margin-left: 540px;
+}
+body{
+	background-image: url('.jpg');
+	background-size: 100%;
+}
+.cont{
+	background-image: url('gepa-panorama-des-technologies-de-l-information-et-de-la-communication-tic.png') ;
+	background-size: 100
+}

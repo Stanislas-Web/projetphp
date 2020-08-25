@@ -1,0 +1,43 @@
+#boite_d_envoi{
+	width: 99%;
+	height: 400px;
+	border:black 1px solid;
+	padding: 5px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	background-color: #efecca;
+	font-family: 'century Gothic',calibri,serif;
+}
+#message{
+	padding: 5px;
+	padding: 10px;
+	text-align: left;
+	height: 200px;
+	width: 800px;
+	border:1px solid;
+	border-radius: 30px;
+	font-weight: bold;
+}
+#envoi_message{
+	border:1px  green solid;
+	border-radius: 5px;
+	height: 40px;
+	width: 150px;
+	font-weight: bold;
+	background-color: green;
+	color: #fff;
+}
+#envoi_message:hover{
+	color:aqua;
+}
+
+
+#destinataire{
+	margin-top:20px;
+	padding: 5px;
+	text-align: left;
+	border:1px solid;
+	border-radius: 5px;
+	height: 40px;
+	font-weight: bold;
+}

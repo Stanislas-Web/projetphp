@@ -1,0 +1,299 @@
+#inscription{
+	background: url('scheme.jpg') no-repeat;
+	background-size: 100%;
+	height: 400px;
+}
+
+#val:hover{
+	color: aqua;
+}
+#prenom{
+	margin-left: 58.5%;
+	padding: 5px;
+	text-align: left;
+	height: 25px;
+	border:1px solid ;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#gratuit{
+	
+	height: 10px;
+	font-size: 50%;
+}
+#nom{ 
+	padding: 5px;
+	text-align: left;
+	height: 25px;
+	width: 13.5%;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#motdepasse{
+	margin-left: 58.5%;
+	width: 27%;
+	height: 25px;
+	margin-top: 10px;
+	text-align: left;
+	padding: 5px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#sexe{
+	margin-left: 58.5%;
+	margin-top: 20px;
+	height: 25px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+#section{
+	margin-top:20px;
+	padding: 5px;
+	padding-left: 50px;
+	text-align: left;
+	border:1px solid;
+	border-radius: 5px;
+	height: 40px;
+	font-weight: bold;
+}
+
+#val{
+	margin-left: 58.5%;
+	border:1px  green solid;
+	border-radius: 5px;
+	height: 40px;
+	width: 150px;
+	font-weight: bold;
+	background-color: green;
+	color: #fff;
+}
+ #homme{
+
+text-align: left;
+border:1px solid;
+border-radius: 5px;
+font-weight: bold;
+}
+#email{
+	margin-left: 58.5%;
+	width: 27%;
+	height: 20px;
+	margin-top: 10px;
+	text-align: left;
+	padding: 5px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#numéro{
+	margin-left: 58.5%;
+	color: #fff;
+	font-weight: bold;
+	
+	
+}
+#num{
+	height: 25px;
+	width: 15%;
+	border:1px green solid;
+    border-radius: 5px;
+}
+
+#bomoko{
+	height: 100px;
+	width: 600px;
+	margin: 0 auto;
+}
+#Inscription{
+	padding-top: 20px;
+	text-decoration: none;
+	margin-left: 33.5%;
+	color: #fff;
+	font-size: 200%;
+}
+.error{
+	text-shadow: 3px;
+	color: #fff;
+	margin-left:58.5%;
+	font-size: 15px;
+	font-weight: bold;
+	background-color:red ;
+	height: 30px;
+	width: 320px;
+	margin-top: 8px;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+.e{
+	margin-left: 58.5%;
+	color: #fff;
+}
+h3{
+	margin-left: 58.5%;
+	color: green;
+	font-size: 20;
+	background-color: green;
+	border-radius: 5px;
+	padding: 3px;
+	color: #fff;
+	height: 25px;
+	width: 480px;
+	padding-left: 50px;
+}
+ .ici:hover{
+ 	text-decoration: none;
+	color:aqua;
+}
+
+
+
+@media screen and (max-width: 780px){
+	header{
+		height: 50px;
+	}
+	h1{
+		font-size: 28px;
+		margin: 20px 0px 0px 0px;
+	}
+	nav li a{
+		font-size: 10px;
+		padding: 10px;
+	}
+	nav li:hover a{
+		padding: 5px 5px 5Px 5px;
+	}
+	#inscription{
+	background: url('iphone-mockup.jpg') no-repeat;
+	background-size: 100%;
+	height: 330px;
+	}
+	#prenom{
+	margin-left: 50px;
+	padding: 5px;
+	text-align: left;
+	height: 10px;
+	border:1px solid;
+	border-radius: 2px;
+	font-weight: bold;
+	margin-bottom:5px;
+	}
+	#nom{
+	margin-left:-5px; 
+	padding: 5px;
+	text-align: left;
+	height: 20px;
+	border:1px solid;
+	border-radius: 2px;
+	font-weight: bold;
+
+	}
+
+	#motdepasse{
+	margin-left: 50px;
+	padding: 5px;
+	width: 165px;
+	height: 10px;
+	margin-top: 10px;
+	text-align: left;
+	padding: 5px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#sexe{
+	color: #fff;
+	margin-left: 50px;
+	margin-top: 20px;
+	height: 30px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+#section{
+	margin-top:20px;
+	padding: 5px;
+	padding-left: 50px;
+	text-align: left;
+	border:1px solid;
+	border-radius: 5px;
+	height: 30px;
+	font-weight: bold;
+}
+
+#val{
+	margin-left: 80px;
+	border:1px  green solid;
+	border-radius: 5px;
+	height: 30px;
+	width: 100px;
+	font-weight: bold;
+	background-color: green;
+	color: #fff;
+}
+
+ #homme{
+
+text-align: left;
+border:1px solid;
+border-radius: 5px;
+font-weight: bold;
+}
+#email{
+	margin-left: 50px;
+	width: 165px;
+	height: 10px;
+	margin-top: 10px;
+	text-align: left;
+	padding: 5px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+#bomoko{
+	height: 50px;
+	width: 200px;
+	margin: 0 auto;
+}
+h2{
+	padding-top: 20px;
+	text-decoration: underline;
+	margin-left: 97px;
+	color: #fff;
+}
+.error{
+	text-shadow: 3px;
+	color: #fff;
+	margin-left:10px;
+	font-size: 12px;
+	font-weight: bold;
+	background-color:red ;
+	height: 13px;
+	width: 250px;
+	margin-top: 8px;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+
+h3{
+	margin-left: 7px;
+	color: green;
+	font-size: 9px;
+	background-color: green;
+	border-radius: 5px;
+	padding: 3px;
+	color: #fff;
+	height: 13px;
+	width: 270px;
+	padding-left: 5px;
+}
+ .ici:hover{
+ 	text-decoration: none;
+	color:aqua;
+}
+
+
+}

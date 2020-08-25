@@ -1,0 +1,206 @@
+#cnt{
+	height: 50px;
+	width: 50px;
+	background-color: #fff;
+}
+#kota{
+	background-color: rgba(52, 73, 94, 0.7);
+	border:none;
+	height: 300PX;
+	width: 500px;
+	border:1px rgba(52, 73, 94, 0.7) solid;
+	border-radius: 6%;
+}
+#prenom{
+	
+	margin-top:10px; 
+	padding-left: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	text-align: left;
+	width: 357px;
+	height: 30px;
+	border:1px rgba(52, 73, 94, 0.2) solid;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#motdepasse{
+	padding-left:30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	width: 357px;
+	height: 30px;
+	border:1px rgba(52, 73, 94, 0.2) solid;
+	border-radius: 5px;
+	font-weight: bold;
+
+}
+
+#f{
+	margin-left: 540px;
+}
+.cont{
+	background-image: url('img1.jpg') ;
+	background-size: 100
+	height:360px;
+	padding-top: 3%;
+}
+#btn:hover{
+	color: aqua;
+}
+#oublie{
+	color: #fff;
+	text-decoration: none;
+}
+#oublie:hover{
+	text-decoration: underline;
+}
+#btn{
+	border:1px  green solid;
+	border-radius: 5px;
+	height: 40px;
+	width: 150px;
+	font-weight: bold;
+	background-color: green;
+	color: #fff;
+}
+
+ 
+
+h2{
+
+	padding-top: 50px;
+	text-decoration: none;
+	
+}
+#val:hover{
+	background-color:rgba(); 
+}
+.error{
+	text-align: center;
+	text-shadow: 3px;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	background-color:red ;
+	height: 30px;
+	width: 320px;
+	margin-top: 8px;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+.e{
+	margin-left: 800px;
+	color: #fff;
+}
+h3{
+	margin-left: 800px;
+	color: green;
+	font-size: 20;
+	background-color: green;
+	border-radius: 5px;
+	padding: 5px;
+	color: #fff;
+	height: 25px;
+	width: 320px;
+	padding-left: 50px;
+}
+#bomoko{
+	height: 100px;
+	width: 600px;
+}
+#imgkota{
+	width: 120px;
+	height: 120px;
+	margin-top: -30px;
+
+}
+
+
+
+@media screen and (max-width: 780px){
+	header{
+		height: 50px;
+	}
+	h1{
+		font-size: 28px;
+		margin: 20px 0px 0px 0px;
+	}
+	nav li a{
+		font-size: 10px;
+		padding: 10px;
+	}
+	nav li:hover a{
+		padding: 5px 5px 5Px 5px;
+	}
+	.cont{
+	background: url('iphone.jpg') no-repeat;
+	background-size: 100%;
+	height: 330px;
+	}
+	#prenom{
+	margin-left: 50px;
+	margin-top: 5px;
+	width: 200px;
+	padding: 5px;
+	text-align: left;
+	height: 10px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+	margin-bottom:5px;
+	}
+	#motdepasse{
+	margin-left: 50px;
+	padding: 5px;
+	width: 200px;
+	height: 10px;
+	margin-top: 10px;
+	text-align: left;
+	padding: 5px;
+	border:1px solid;
+	border-radius: 5px;
+	font-weight: bold;
+    }
+
+	#btn{
+	margin-left: 100px;
+	border:1px  green solid;
+	border-radius: 5px;
+	height: 30px;
+	width: 100px;
+	font-weight: bold;
+	background-color: green;
+	color: #fff;
+	}
+	#bomoko{
+	height: 50px;
+	width: 200px;
+	margin: 0 auto;
+	}
+	h2{
+	padding-top: 70px;
+	margin-left: 18px;
+	color: #fff;
+	}
+	.error{
+	text-shadow: 3px;
+	color: #fff;
+	margin-left:10px;
+	font-size: 12px;
+	font-weight: bold;
+	background-color:red ;
+	height: 13px;
+			width: 250px;
+			margin-top: 8px;
+			border-radius: 5px;
+			padding: 5px;
+
+		}
+
+
+
+		}
